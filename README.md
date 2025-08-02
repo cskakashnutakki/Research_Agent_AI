@@ -2,6 +2,8 @@
 
 Welcome to **Research Agent AI**, an intelligent assistant developed under the IBM-AICTE collaboration. This project addresses the modern-day challenges researchers face in academic and industrial R&D by automating literature review, paper summarization, citation management, and more using cutting-edge AI technologies.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8a9f020a-1e1f-4971-91b1-3531dfcc8c0a" />
+
 ---
 
 ## 📌 Problem Statement
