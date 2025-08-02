@@ -126,10 +126,16 @@ Research_Agent_AI/
 
 ## 🔗 Useful Links
 
-1. IBM Cloud Lite
-2. IBM Watsonx.ai
-3. IBM SkillsBuild
+1. IBM Cloud Lite : https://cloud.ibm.com/
+2. IBM Watsonx.ai : https://cloud.ibm.com/watsonx/overview
+3. IBM Watsonx.ai Studio : https://cloud.ibm.com/catalog/services/watsonxai-studio
+4. IBM Watsonx.ai Runtime : https://cloud.ibm.com/catalog/services/watsonxai-runtime
+3. IBM SkillsBuild : https://sb-auth.skillsbuild.org/login?guest=true&learning_path=https:%2F%2Fskills.yourlearning.ibm.com%2Fauth%2F%3Fredirect%3Dhttps%253A%252F%252Fbundles.yourlearning.ibm.com%252Fskills%252Flearn%252F%2523page%252FVQMMDRZZVEZX255J&redirect=https:%2F%2Fbundles.yourlearning.ibm.com%2Fskills%2Flearn%2F%23page%2FVQMMDRZZVEZX255J&referer=skills.yourlearning.ibm.com
 
 ---
 
+## 🔗 Connect with me on LinkedIn
 
+LinkedIn :- https://www.linkedin.com/in/akash-nutakki/
+
+---
